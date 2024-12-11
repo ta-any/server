@@ -1,0 +1,8 @@
+// connection.query("SELECT * FROM doctors",
+//     function(err, results, fields) {
+//         console.log(err);
+//         console.log(results); // собственно данные
+//         console.log(fields); // мета-данные полей
+//     });
+// connection.end();
+
